@@ -1,0 +1,57 @@
+#name {
+    text-align:center;
+    margin-top:100px;
+    padding:20px;
+    font-size:87px;
+    color:#5588ff;
+    font-family:'Droid Serif';
+}
+
+img {
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+
+body {
+    margin:auto;
+    padding:0px;
+    width:900px;
+    font-size:40px;
+    color:white;
+    background-color:black;
+    font-family:'Droid Sans';
+}
+
+.hidden {
+    display:none;
+}
+
+.section {
+    padding:1%;
+    width:22%;
+    border-left:1px dashed #333;
+    float:left;
+    height:200px;
+}
+
+.section_over {
+    background-color:#111;
+    cursor:pointer;
+}
+
+.first {
+
+}
+
+.last {
+    border-right:1px dashed #333;
+}
+
+.even {
+
+}
+
+.odd {
+
+}
